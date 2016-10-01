@@ -4,7 +4,7 @@
 
 Submitted by: **Vidhi Shah**
 
-Time spent: **8** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 * [ N] Add support for completion due dates for todo items (and display within listview item)
 * [N ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
 * [ N] Add support for selecting the priority of each todo item (and display in listview item)
-* [N ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* [Y ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
@@ -39,6 +39,7 @@ I am a beginner. This course is very important to me.
 Adding an Item / Editing an Item / Saving and going back to the first screen
 
 ![alt tag] (https://github.com/vidhi283/SimpleToDoGitHub/blob/master/SimpleToDo.gif)
+![alt tag] 
 
 ## License
 
