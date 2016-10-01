@@ -39,7 +39,7 @@ I am a beginner. This course is very important to me.
 Adding an Item / Editing an Item / Saving and going back to the first screen
 
 ![alt tag] (https://github.com/vidhi283/SimpleToDoGitHub/blob/master/SimpleToDo.gif)
-![alt tag] 
+![alt tag] (https://github.com/vidhi283/SimpleToDoGitHub/blob/master/SimpleToDoExtended.gif)
 
 ## License
 
